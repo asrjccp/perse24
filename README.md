@@ -29,7 +29,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - KARTHIKEYAN AAKARSHA KANNAN
 - LAAVANYA SUNDARAVEL
 - LEE ZHI XUAN CLARA
-- LENG WEI HAN WAYN
+- LENG WEI HAN WAYN https://github.com/uaerious/persecoding
 - SHYANN HO MIN FEI
 - SO KOK SIANG
 - SOH JING SHAN SABRINA
