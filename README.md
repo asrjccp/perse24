@@ -10,7 +10,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - CHAN QIAO NING
 - CHAW YI XUAN
 - CHEN JINHONG
-- LEE TZU RUI
+- LEE TZU RUI https://github.com/tzurui/perse24/tree/main 
 - R MUKILAN
 - RYAN LAM YU HANG
 - TEO HEAN YIK
