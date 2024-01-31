@@ -60,7 +60,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - YONG HAO JENG KENNETH
 - ASIAH BINTE MD BADRUN NAFIS
 - CHOO HOM DA GERRARD
-- DARYL CHUA MING XIANG
+- DARYL CHUA MING XIANG https://github.com/cutekittens123/pers24
 - HOANG NGUYEN KHANH LINH
 - JEROME PALAYOOR
 - LAI XUE YI
