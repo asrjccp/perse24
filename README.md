@@ -30,7 +30,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - LAAVANYA SUNDARAVEL
 - LEE ZHI XUAN CLARA
 - LENG WEI HAN WAYN https://github.com/uaerious/persecoding
-- SHYANN HO MIN FEI
+- SHYANN HO MIN FEI https://github.com/doggocaliper/perse24/
 - SO KOK SIANG
 - SOH JING SHAN SABRINA
 - TAN HONG ERN
