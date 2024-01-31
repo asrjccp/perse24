@@ -63,7 +63,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - DARYL CHUA MING XIANG https://github.com/cutekittens123/pers24
 - HOANG NGUYEN KHANH LINH(https://github.com/kzlynn18/PCTC2023/tree/main) 
 - [JEROME PALAYOOR](https://github.com/jeromepalayoor/persecoding) https://github.com/jeromepalayoor/persecoding
-- LAI XUE YI
+- LAI XUE YI https://github.com/LaiXueYi/xueyiperse24/tree/main
 - LEE CHEE HOWE
 - [NGUYEN PHUC CHUONG](https://github.com/asrjccp/perse24) https://github.com/asrjccp/perse24
 - TAN PENG WEN
