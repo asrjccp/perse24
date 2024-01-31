@@ -20,7 +20,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - VISHAL KRISHNA DHARAN CHANDRU
 - VITTANALA ROSHNI https://github.com/Roshniiiii/perse24
 - ABDUS SAYEM SARWER https://github.com/emct101/persecoding24
-- ADAPAKA VINITA
+- ADAPAKA VINITA https://github.com/vi-nita/perse24/
 - AMAL ANAND NAVIN https://github.com/NNComputing/persecoding
 - CHAN CHI NGAI ZEDRIC https://github.com/zedricchan/persecoding24
 - CHEN SHIH HSI
