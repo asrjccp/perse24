@@ -26,17 +26,17 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - CHEN SHIH HSI
 - CHU YAOFEI https://github.com/hyperAdina/perse24yf
 - DIDUM SENILA FERNANDO
-- KARTHIKEYAN AAKARSHA KANNAN https://github.com/BlazingfuryKing/PCTC-2023/tree/main
-- LAAVANYA SUNDARAVEL
+- KARTHIKEYAN AAKARSHA KANNAN https://github.com/BlazingfuryKing/PCTC-2023
+- LAAVANYA SUNDARAVEL https://github.com/laavanyasundaravel/perse24
 - LEE ZHI XUAN CLARA https://github.com/Ninrolds6/perse24
 - LENG WEI HAN WAYN https://github.com/uaerious/persecoding
 - SHYANN HO MIN FEI https://github.com/doggocaliper/perse24
-- SO KOK SIANG
-- SOH JING SHAN SABRINA
+- SO KOK SIANG https://github.com/Alynesvir/perse2024
+- SOH JING SHAN SABRINA https://github.com/Jssoh26/perse24
 - TAN HONG ERN https://github.com/jovthe/perse
 - TAN JU LYAN
-- TAN YAN CONG KAYVEN
-- TAY JARETH  https://github.com/DaCrazyLime/perse24.
+- TAN YAN CONG KAYVEN https://github.com/Ktyc/persecoding24
+- TAY JARETH https://github.com/DaCrazyLime/perse24
 - YE XINCHENG
 - BU PING JIN
 - CHUA NIAN HENG JOHNATHAN
