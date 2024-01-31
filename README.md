@@ -20,22 +20,22 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - VISHAL KRISHNA DHARAN CHANDRU
 - VITTANALA ROSHNI https://github.com/Roshniiiii/perse24
 - ABDUS SAYEM SARWER https://github.com/emct101/persecoding24
-- ADAPAKA VINITA
-- AMAL ANAND NAVIN
+- ADAPAKA VINITA https://github.com/vi-nita/perse24/
+- AMAL ANAND NAVIN https://github.com/NNComputing/persecoding
 - CHAN CHI NGAI ZEDRIC https://github.com/zedricchan/persecoding24
 - CHEN SHIH HSI
-- CHU YAOFEI
+- CHU YAOFEI https://github.com/hyperAdina/perse24yf
 - DIDUM SENILA FERNANDO
-- KARTHIKEYAN AAKARSHA KANNAN
-- LAAVANYA SUNDARAVEL
-- LEE ZHI XUAN CLARA
+- KARTHIKEYAN AAKARSHA KANNAN https://github.com/BlazingfuryKing/PCTC-2023
+- LAAVANYA SUNDARAVEL https://github.com/laavanyasundaravel/perse24
+- LEE ZHI XUAN CLARA https://github.com/Ninrolds6/perse24
 - LENG WEI HAN WAYN https://github.com/uaerious/persecoding
-- SHYANN HO MIN FEI
+- SHYANN HO MIN FEI https://github.com/doggocaliper/perse24
 - SO KOK SIANG https://github.com/Alynesvir/perse2024
-- SOH JING SHAN SABRINA
-- TAN HONG ERN
+- SOH JING SHAN SABRINA https://github.com/Jssoh26/perse24
+- TAN HONG ERN https://github.com/jovthe/perse
 - TAN JU LYAN
-- TAN YAN CONG KAYVEN
+- TAN YAN CONG KAYVEN https://github.com/Ktyc/persecoding24
 - TAY JARETH
 - YE XINCHENG
 - BU PING JIN
