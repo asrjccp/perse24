@@ -14,9 +14,9 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - R MUKILAN
 - RYAN LAM YU HANG
 - TEO HEAN YIK
-- TOFF TAN
+- TOFF TAN https://github.com/ToffeePudding/perse24
 - TRAN TUE TU NHU https://github.com/Tununu/perse24
-- TRISTAN KOO SHAO RUI
+- TRISTAN KOO SHAO RUI https://github.com/trjysl/Perse24
 - VISHAL KRISHNA DHARAN CHANDRU
 - VITTANALA ROSHNI
 - ABDUS SAYEM SARWER
@@ -61,11 +61,11 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - ASIAH BINTE MD BADRUN NAFIS
 - CHOO HOM DA GERRARD
 - DARYL CHUA MING XIANG https://github.com/cutekittens123/pers24
-- HOANG NGUYEN KHANH LINH
+- HOANG NGUYEN KHANH LINH https://github.com/kzlynn18/PCTC2023
 - [JEROME PALAYOOR](https://github.com/jeromepalayoor/persecoding) https://github.com/jeromepalayoor/persecoding
-- LAI XUE YI
+- LAI XUE YI https://github.com/LaiXueYi/xueyiperse24
 - LEE CHEE HOWE https://github.com/Leecheehowe/perse24
-- NGUYEN PHUC CHUONG
+- [NGUYEN PHUC CHUONG](https://github.com/asrjccp/perse24) https://github.com/asrjccp/perse24
 - TAN PENG WEN
 - TUNG YU FENG
 - WONG ZI YI
