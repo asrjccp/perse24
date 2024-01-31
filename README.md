@@ -31,7 +31,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - LEE ZHI XUAN CLARA
 - LENG WEI HAN WAYN https://github.com/uaerious/persecoding
 - SHYANN HO MIN FEI
-- SO KOK SIANG
+- SO KOK SIANG https://github.com/Alynesvir/perse2024/tree/main
 - SOH JING SHAN SABRINA
 - TAN HONG ERN
 - TAN JU LYAN
