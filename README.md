@@ -35,7 +35,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - SOH JING SHAN SABRINA
 - TAN HONG ERN
 - TAN JU LYAN
-- TAN YAN CONG KAYVEN
+- TAN YAN CONG KAYVEN https://github.com/Ktyc/persecoding24
 - TAY JARETH
 - YE XINCHENG
 - BU PING JIN
