@@ -10,7 +10,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - CHAN QIAO NING https://github.com/qiaoninng/perse24
 - CHAW YI XUAN https://github.com/yishun20/perse2023-24
 - CHEN JINHONG
-- LEE TZU RUI
+- LEE TZU RUI https://github.com/tzurui/perse24/tree/main 
 - R MUKILAN
 - RYAN LAM YU HANG https://github.com/lamsheep/persecoding
 - TEO HEAN YIK https://github.com/meelkmeelk/PerseCoding24
