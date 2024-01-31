@@ -21,16 +21,16 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - VITTANALA ROSHNI https://github.com/Roshniiiii/perse24
 - ABDUS SAYEM SARWER
 - ADAPAKA VINITA
-- AMAL ANAND NAVIN
-- CHAN CHI NGAI ZEDRIC
+- AMAL ANAND NAVIN https://github.com/NNComputing/persecoding
+- CHAN CHI NGAI ZEDRIC https://github.com/zedricchan/persecoding24
 - CHEN SHIH HSI
-- CHU YAOFEI
+- CHU YAOFEI https://github.com/hyperAdina/perse24yf
 - DIDUM SENILA FERNANDO
 - KARTHIKEYAN AAKARSHA KANNAN
 - LAAVANYA SUNDARAVEL
-- LEE ZHI XUAN CLARA https://github.com/Ninrolds6/perse24/tree/main
-- LENG WEI HAN WAYN
-- SHYANN HO MIN FEI
+- LEE ZHI XUAN CLARA https://github.com/Ninrolds6/perse24
+- LENG WEI HAN WAYN https://github.com/uaerious/persecoding
+- SHYANN HO MIN FEI https://github.com/doggocaliper/perse24
 - SO KOK SIANG
 - SOH JING SHAN SABRINA
 - TAN HONG ERN
