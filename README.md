@@ -27,7 +27,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - CHU YAOFEI https://github.com/hyperAdina/perse24yf
 - DIDUM SENILA FERNANDO
 - KARTHIKEYAN AAKARSHA KANNAN
-- LAAVANYA SUNDARAVEL
+- LAAVANYA SUNDARAVEL https://github.com/laavanyasundaravel/perse24
 - LEE ZHI XUAN CLARA
 - LENG WEI HAN WAYN https://github.com/uaerious/persecoding
 - SHYANN HO MIN FEI https://github.com/doggocaliper/perse24/
