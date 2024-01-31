@@ -24,7 +24,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - AMAL ANAND NAVIN https://github.com/NNComputing/persecoding
 - CHAN CHI NGAI ZEDRIC https://github.com/zedricchan/persecoding24
 - CHEN SHIH HSI
-- CHU YAOFEI
+- CHU YAOFEI https://github.com/hyperAdina/perse24yf
 - DIDUM SENILA FERNANDO
 - KARTHIKEYAN AAKARSHA KANNAN
 - LAAVANYA SUNDARAVEL
