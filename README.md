@@ -26,7 +26,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - CHEN SHIH HSI
 - CHU YAOFEI https://github.com/hyperAdina/perse24yf
 - DIDUM SENILA FERNANDO
-- KARTHIKEYAN AAKARSHA KANNAN
+- KARTHIKEYAN AAKARSHA KANNAN https://github.com/BlazingfuryKing/PCTC-2023/tree/main
 - LAAVANYA SUNDARAVEL
 - LEE ZHI XUAN CLARA
 - LENG WEI HAN WAYN https://github.com/uaerious/persecoding
