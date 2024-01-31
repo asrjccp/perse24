@@ -22,7 +22,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - ABDUS SAYEM SARWER
 - ADAPAKA VINITA
 - AMAL ANAND NAVIN
-- CHAN CHI NGAI ZEDRIC
+- CHAN CHI NGAI ZEDRIC https://github.com/zedricchan/persecoding24
 - CHEN SHIH HSI
 - CHU YAOFEI
 - DIDUM SENILA FERNANDO
