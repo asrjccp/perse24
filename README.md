@@ -59,7 +59,6 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - XU YIYUAN
 - YONG HAO JENG KENNETH
 - ASIAH BINTE MD BADRUN NAFIS
-- CHOO HOM DA GERRARD
 - DARYL CHUA MING XIANG https://github.com/cutekittens123/pers24
 - HOANG NGUYEN KHANH LINH https://github.com/kzlynn18/PCTC2023
 - [JEROME PALAYOOR](https://github.com/jeromepalayoor/persecoding) https://github.com/jeromepalayoor/persecoding
