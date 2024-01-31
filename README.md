@@ -13,7 +13,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - LEE TZU RUI
 - R MUKILAN
 - RYAN LAM YU HANG
-- TEO HEAN YIK
+- TEO HEAN YIK https://github.com/meelkmeelk/PerseCoding24
 - TOFF TAN https://github.com/ToffeePudding/perse24
 - TRAN TUE TU NHU https://github.com/Tununu/perse24
 - TRISTAN KOO SHAO RUI https://github.com/trjysl/Perse24
