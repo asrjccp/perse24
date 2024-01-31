@@ -68,4 +68,4 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - [NGUYEN PHUC CHUONG](https://github.com/asrjccp/perse24) https://github.com/asrjccp/perse24
 - TAN PENG WEN
 - TUNG YU FENG
-- WONG ZI YI
+- WONG ZI YI https://github.com/izwyv/perse24
