@@ -33,7 +33,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - SHYANN HO MIN FEI https://github.com/doggocaliper/perse24
 - SO KOK SIANG
 - SOH JING SHAN SABRINA
-- TAN HONG ERN
+- TAN HONG ERN https://github.com/jovthe/perse
 - TAN JU LYAN
 - TAN YAN CONG KAYVEN
 - TAY JARETH
