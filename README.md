@@ -12,8 +12,8 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - CHEN JINHONG
 - LEE TZU RUI
 - R MUKILAN
-- RYAN LAM YU HANG
-- TEO HEAN YIK
+- RYAN LAM YU HANG https://github.com/lamsheep/persecoding/tree/main/r0
+- TEO HEAN YIK https://github.com/meelkmeelk/PerseCoding24/tree/main
 - TOFF TAN
 - TRAN TUE TU NHU https://github.com/Tununu/perse24
 - TRISTAN KOO SHAO RUI https://github.com/trjysl/Perse24
