@@ -64,7 +64,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - HOANG NGUYEN KHANH LINH
 - [JEROME PALAYOOR](https://github.com/jeromepalayoor/persecoding) https://github.com/jeromepalayoor/persecoding
 - LAI XUE YI
-- LEE CHEE HOWE
+- LEE CHEE HOWE https://github.com/Leecheehowe/perse24
 - NGUYEN PHUC CHUONG
 - TAN PENG WEN
 - TUNG YU FENG
