@@ -32,7 +32,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - LENG WEI HAN WAYN https://github.com/uaerious/persecoding
 - SHYANN HO MIN FEI https://github.com/doggocaliper/perse24/
 - SO KOK SIANG
-- SOH JING SHAN SABRINA
+- SOH JING SHAN SABRINA  https://github.com/Jssoh26/perse24
 - TAN HONG ERN
 - TAN JU LYAN
 - TAN YAN CONG KAYVEN
