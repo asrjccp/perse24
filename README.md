@@ -31,7 +31,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - LEE ZHI XUAN CLARA https://github.com/Ninrolds6/perse24
 - LENG WEI HAN WAYN https://github.com/uaerious/persecoding
 - SHYANN HO MIN FEI https://github.com/doggocaliper/perse24
-- SO KOK SIANG
+- SO KOK SIANG https://github.com/Alynesvir/perse2024
 - SOH JING SHAN SABRINA https://github.com/Jssoh26/perse24
 - TAN HONG ERN https://github.com/jovthe/perse
 - TAN JU LYAN
