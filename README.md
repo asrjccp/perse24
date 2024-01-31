@@ -62,7 +62,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - CHOO HOM DA GERRARD
 - DARYL CHUA MING XIANG https://github.com/cutekittens123/pers24
 - HOANG NGUYEN KHANH LINH
-- [JEROME PALAYOOR](https://github.com/jeromepalayoor/persecoding)
+- [JEROME PALAYOOR](https://github.com/jeromepalayoor/persecoding) https://github.com/jeromepalayoor/persecoding
 - LAI XUE YI
 - LEE CHEE HOWE
 - NGUYEN PHUC CHUONG
