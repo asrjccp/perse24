@@ -24,7 +24,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - AMAL ANAND NAVIN
 - CHAN CHI NGAI ZEDRIC
 - CHEN SHIH HSI
-- CHU YAOFEI
+- CHU YAOFEI https://github.com/hyperAdina/perse24yf
 - DIDUM SENILA FERNANDO
 - KARTHIKEYAN AAKARSHA KANNAN
 - LAAVANYA SUNDARAVEL
