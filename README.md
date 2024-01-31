@@ -46,7 +46,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - LI RUIXIN
 - LIW YUI HENG
 - MARGARET CHEN PERALTA
-- NG YING XUAN
+- NG YING XUAN https://github.com/bngybongybrd/perse24
 - PANG SHIBO
 - PNG JUN JIE RYAN
 - SAMUEL LOH WAI HENG
