@@ -15,7 +15,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - RYAN LAM YU HANG
 - TEO HEAN YIK
 - TOFF TAN
-- TRAN TUE TU NHU
+- TRAN TUE TU NHU https://github.com/Tununu/perse24
 - TRISTAN KOO SHAO RUI
 - VISHAL KRISHNA DHARAN CHANDRU
 - VITTANALA ROSHNI
