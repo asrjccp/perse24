@@ -6,7 +6,7 @@ Click PCTC 2023-24 R0 - Timed Mode - review mode
 
 Submit your GitHub (public) repo link (using pull request) to this page by the end of the lesson.
 - ASHER CHENG 
-- BRYAN TAN BOON JUN
+- BRYAN TAN BOON JUN https://github.com/FundayStrike/projecteuler-persecoding/tree/main/PCTC%202023-24%20R0
 - CHAN QIAO NING https://github.com/qiaoninng/perse24
 - CHAW YI XUAN https://github.com/yishun20/perse2023-24
 - CHEN JINHONG
