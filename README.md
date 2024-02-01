@@ -52,7 +52,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - SAMUEL LOH WAI HENG
 - SHANNON LIM WERN SZE
 - SITT PAING HTOO
-- SOON ZI NI DARLENE
+- SOON ZI NI DARLENE https://github.com/ddarlenee/persecoding/tree/main/23-24%20R0
 - TAN LUNN KHAI CADEN
 - TEO JIN YI https://github.com/Xian-Cao/perse24
 - XIAO YIYANG
