@@ -5,11 +5,12 @@ https://pctc.cuttle.org/index.php?action=user_competitions
 Click PCTC 2023-24 R0 - Timed Mode - review mode
 
 Submit your GitHub (public) repo link (using pull request) to this page by the end of the lesson.
-- ASHER CHENG 
+
+- ASHER CHENG https://github.com/Ash2234/AsherChengPerse24
 - BRYAN TAN BOON JUN https://github.com/FundayStrike/projecteuler-persecoding/tree/main/PCTC%202023-24%20R0
 - CHAN QIAO NING https://github.com/qiaoninng/perse24
 - CHAW YI XUAN https://github.com/yishun20/perse2023-24
-- CHEN JINHONG
+- CHEN JINHONG https://github.com/JHC9/perse24
 - LEE TZU RUI https://github.com/tzurui/perse24
 - R MUKILAN
 - RYAN LAM YU HANG https://github.com/lamsheep/persecoding
@@ -52,13 +53,13 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - SAMUEL LOH WAI HENG
 - SHANNON LIM WERN SZE
 - SITT PAING HTOO
-- SOON ZI NI DARLENE
+- SOON ZI NI DARLENE https://github.com/ddarlenee/persecoding/tree/main/23-24%20R0
 - TAN LUNN KHAI CADEN
 - TEO JIN YI https://github.com/Xian-Cao/perse24
 - XIAO YIYANG
 - XU YIYUAN
 - YONG HAO JENG KENNETH
-- ASIAH BINTE MD BADRUN NAFIS
+- ASIAH BINTE MD BADRUN NAFIS https://github.com/asiahhh/PCTC-2023-24-R0---Timed-Mode---review-mode
 - DARYL CHUA MING XIANG https://github.com/cutekittens123/pers24
 - HOANG NGUYEN KHANH LINH https://github.com/kzlynn18/PCTC2023
 - [JEROME PALAYOOR](https://github.com/jeromepalayoor/persecoding) https://github.com/jeromepalayoor/persecoding
@@ -66,5 +67,5 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - LEE CHEE HOWE https://github.com/Leecheehowe/perse24
 - [NGUYEN PHUC CHUONG](https://github.com/asrjccp/perse24) https://github.com/asrjccp/perse24
 - TAN PENG WEN
-- TUNG YU FENG
+- TUNG YU FENG https://github.com/89yf/yf_perse24
 - WONG ZI YI https://github.com/izwyv/perse24
