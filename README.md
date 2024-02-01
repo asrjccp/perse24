@@ -41,7 +41,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - YE XINCHENG
 - BU PING JIN
 - CHUA NIAN HENG JOHNATHAN
-- CHUA WEI JIE THURSTON
+- CHUA WEI JIE THURSTON https://github.com/mashiro00o/Perse2024
 - GOY SZE LENG ELIZA
 - JAMES NATHAN NORA
 - LI RUIXIN
